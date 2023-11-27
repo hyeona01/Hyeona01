@@ -6,3 +6,6 @@
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   </div>
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<hr/>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=sha0209)](https://velog.io/@sha0209) 
