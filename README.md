@@ -8,5 +8,4 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=sha0209)](https://velog.io/@sha0209)
-
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sha0209)](https://github.com/eungyeole/velog-readme-stats)
