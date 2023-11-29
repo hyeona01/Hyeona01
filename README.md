@@ -3,7 +3,7 @@
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hyeona01&show_icons=true&theme=gruvbox">
+<img src="https://github-readme-stats.vercel.app/api?username=Hyeona01&show_icons=true&theme=ambient_gradient">
 
 ### Stack ⚒️
 <div>
