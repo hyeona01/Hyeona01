@@ -1,5 +1,5 @@
 ### Hi there 👋
- <a href="mailto:shappy0209@naver.com">
+ <a href="mailto:sha0209@dgu.ac.kr">
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
 </a>
 
