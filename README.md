@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Hyeona's+GitHub;I'm+waiting+for+your+feedback)](https://git.io/typing-svg)
+
 ### Hi there 👋
  <a href="mailto:sha0209@dgu.ac.kr">
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
