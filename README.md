@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Hyeona's+GitHub;I'm+waiting+for+your+feedback)](https://git.io/typing-svg)
 
 ## Hi there 👋  
-## Contact me HERE!
+<b color="#7C0072">Contact me HERE!<b/>
  <a href="mailto:sha0209@dgu.ac.kr">
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
 </a>
@@ -16,7 +16,7 @@
  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <br />
  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-</div>
+</div>  
 
 ### DevOps
 <div>
@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">  
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
  
 ## Velog 📝
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=sha0209)](https://velog.io/@sha0209)
