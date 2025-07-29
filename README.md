@@ -9,9 +9,8 @@
 <br/><br/><br/>
 
 ## Skills ⚒️
-<br />
 
-### 1. Programming Languages
+### Programming Languages
 <div>
  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -21,7 +20,7 @@
 </div>
 <br/><br/>
 
-### 2. Back-End Development
+### Back-End Development
 _Frameworks & Platforms_
 <div>
  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
@@ -43,7 +42,7 @@ _Authentication & Authorization_
 </div>
 <br/><br/>
 
-### 3. Front-End Development
+### Front-End Development
 _Core Skills_
 <div>
  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -70,7 +69,7 @@ _Libraries & Tools_
 </div>
 <br/><br/>
 
-### 4. Databases
+### Databases
 <div>
  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -78,7 +77,7 @@ _Libraries & Tools_
 </div>
 <br/><br/>
 
-### 5. DevOps & Deployment
+### DevOps & Deployment
 <div>
  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
@@ -88,7 +87,7 @@ _Libraries & Tools_
 </div>
 <br/><br/>
 
-### 6. Tools & Collaboration
+### Tools & Collaboration
 _IDE_
 <div>
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
@@ -104,7 +103,7 @@ _Communication_
 </div>
 <br/><br/>
 
-### 7. Operating Systems
+### Operating Systems
 <div>
  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
